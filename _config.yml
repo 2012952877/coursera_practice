@@ -1,0 +1,8 @@
+title: Coursera practice
+description: This is a repository which stored my coursera practice in "https://www.coursera.org/learn/html-css-javascript-for-web-developers"
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
